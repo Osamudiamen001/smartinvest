@@ -61,3 +61,8 @@ a:active{
 
     
 }
+@media (width <=300px) {
+    #brr{
+        width:50%;
+    }
+}
