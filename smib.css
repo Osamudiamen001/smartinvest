@@ -61,8 +61,11 @@ a:active{
 
     
 }
-@media (width <=300px) {
+@media (width <=500px) {
     #brr{
         width:50%;
+    }
+    table{
+        width:100%;
     }
 }
