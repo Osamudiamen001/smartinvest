@@ -1,0 +1,29 @@
+#contianer{
+    background: url("white.jpg");
+}
+@media (width <= 500px) {
+     #brr{
+        width:76%;
+        height:100%;
+     }
+}
+body{
+    font-size: large;
+    word-spacing: 3px;
+}
+#success{
+    background: url("web2.jpeg");
+}
+@media (width <= 500px) {
+     #brr{
+        width:76%;
+        height:100%;
+     }
+}
+
+img{
+    width:50%;
+}
+footer{
+    background: url("white.jpg"); 
+}
