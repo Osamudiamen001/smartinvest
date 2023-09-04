@@ -75,3 +75,7 @@ a:active{
         width:100%;
     }
 }
+@media (width < 300px) {
+    #brr {
+         width:45%;
+    }
