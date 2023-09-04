@@ -2,12 +2,12 @@
     text-align: right;
     display:flex;
     justify-self: space-around;
-    font-size: larger;
+    font-size: large;
     word-spacing: 20px;
     padding:30px;
 }
 #he3{
-    font-size: larger;
+    font-size: large;
     display: flex;
     justify-content: space-around;
     position:static;
